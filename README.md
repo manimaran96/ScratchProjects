@@ -1,8 +1,11 @@
 # Scratch 2D animation
-    Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
+   Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
 
 ##Developer
 >###*Manimaran.K*
+
+##My Blog
+>[https://manimaran96.wordpress.com](https://manimaran96.wordpress.com) 
 
 ##Project Abstract
 
