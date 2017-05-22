@@ -1,23 +1,23 @@
 # Scratch 2D animation
    Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
 
-##Developer
->###*Manimaran.K*
+## Developer
+>### *Manimaran.K*
 
-##My Blog
+## My Blog
 >[https://manimaran96.wordpress.com](https://manimaran96.wordpress.com) 
 
-##Project Abstract
+## Project Abstract
 
 1. This all files are designed in Scratch
 2. All files in sb2 format
 3. Basic ideas,games,drawing are available 
 
-##How to use
+## How to use
 1. install scratch software
 2. open *.sb2 file
 
-##**About me**
+## **About me**
         Manimaran.K
         Computer Science Engineering
         manimaraninam1027@gmail.com
